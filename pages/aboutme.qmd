@@ -1,0 +1,29 @@
+---
+title: "About Me"
+toc: false
+---
+
+Hello! My name is Daniel Kaiser and I am a post-doctoral researcher at the University of Virginia. I completed my Ph.D. in network science at the University of Indiana in 2025; for a complete history, see [my CV](../assets/docs/CV_Kaiser_Daniel.pdf).
+
+## Who I am within Science
+
+The sort of projects I work on and the things I think about are summarized nicely on my ["Projects" page](research/projects.qmd).
+
+There is, of course, more to "doing science" than research alone.
+In university labs alone there are expectations to spend time on <a href="https://www.chronicle.com/article/scientists-spend-nearly-half-their-time-on-administrative-tasks-survey-finds-23697/">administrative tasks</a>, <a href="https://acdalal.wordpress.com/2012/04/04/how-i-spend-my-time/">teaching</a>, and a myriad of other tasks generally considered "service."
+While I put in my time teaching, managing administrative events, reviewing other's work, I find I have a real passion for <a href="/pages/service/mentoring">mentoring</a>.
+It is well-known that a <a href="https://www.tandfonline.com/doi/abs/10.1080/03098770701424983">supportive mentor can provide a radically different experience</a> for a mentee than a non-supportive one, even if they are less "famous" in their field.
+With an ever <a href="https://onlinephdprogram.org/2022/increasing-number-of-phd-graduates-in-the-united-states/">increasing amount of people pursuing doctorates</a> but <a href="https://www.theguardian.com/higher-education-network/blog/2014/may/23/so-many-phd-students-so-few-jobs">stagnating university positions</a>, advisors in academic positions are often too busy fighting to stay afloat in academia's competitive on market to spend quality time mentoring the next generation of scientists.
+While I don't pretend to be immune from "being too busy," I devote time to mentor a variety of undergraduate students in research and computational sciences.
+You can read all about my mentees, what we have worked on together, and where they are now on my ["Mentoring" page](teaching/mentoring.qmd).
+
+
+## Who I am aside from Science
+
+Of course, while I am passionate about my scientific work I do have a personality beyond research!
+When I'm not in the lab, I enjoy exploring local parks and forests, playing video games, leather-craft and some electronics tinkering, and hanging out with my \#1 coauthor, [Salem my cat](salem.qmd).
+
+
+I am also an avid believer in the role of scientists in society extending beyond research.
+Scientists are citizens of the society in which they live and work and, while the research they produce is valuable, they have a responsibility to engage socially as well.
+The image of a scientist as an aloft, pretentious entity separate from the rest of humanity, sitting in their <a href="https://en.wikipedia.org/wiki/Ivory_tower#Academic_usage">ivory tower</a> may seem humurous and out-dated to those of us working in contemporary research labs, but for many people this is the <a href="https://www.reddit.com/r/GradSchool/comments/itlvyt/so_tired_of_how_pretentious_scientists_in/">primary image they have of a scientist</a>.

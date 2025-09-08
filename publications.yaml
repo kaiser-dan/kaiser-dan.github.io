@@ -1,0 +1,58 @@
+kaiser-et-al_multiplex-reconstruction_2023:
+  title: "Multiplex reconstruction with partial information"
+  authors:
+    - Daniel Kaiser
+    - Siddharth Patwardhan
+    - Filippo Radicchi
+  year: 2023
+  venue: Physical Review E
+  published_url: https://doi.org/10.1103/PhysRevE.107.024309
+  pdf: /assets/docs/publications/kaiser-et-al_multiplex-reconstruction_2023.pdf
+  preprint: https://arxiv.org/abs/2206.07529
+  code: https://github.com/kaiser-dan/parametric-dyadic-multiplex-reconstruction
+
+kaiser-et-al_multiplex-reconstruction_2024:
+  title: "Reconstruction of multiplex networks via graph embeddings"
+  authors:
+    - Daniel Kaiser
+    - Siddharth Patwardhan
+    - Minsuk Kim
+    - Filippo Radicchi
+  year: 2024
+  venue: Physical Review E
+  published_url: https://doi.org/10.1103/PhysRevE.109.024313
+  pdf: /assets/docs/publications/kaiser-et-al_multiplex-reconstruction_2024.pdf
+  preprint: https://arxiv.org/abs/2310.12730
+  code: https://github.com/kaiser-dan/proj_naive-embedded-reconstruction
+
+kritschgau-et-al_commdetect-hypergraphs_2024:
+  title: "Community detection in hypergraphs via mutual information maximization"
+  authors:
+    - Juergen Kritschgau
+    - Daniel Kaiser
+    - Oliver Alvarado Rodriguez
+    - Ilya Amburg
+    - Jessalyn Bolkema
+    - Thomas Grubb
+    - Fangfei Lin
+    - Sepideh Maleki
+    - Phil Chodrow
+    - Bill Kay
+  year: 2024
+  venue: "Nature: Scientific Reports"
+  published_url: https://doi.org/10.1038/s41598-024-55934-5
+  pdf: /assets/docs/publications/kritschgau-et-al_commdetect-hypergraphs_2024.pdf
+  preprint: https://arxiv.org/abs/2308.04537
+
+yeung-et-al_efficient-ranking_2025:
+  title: "Efficient inference of rankings from multibody comparisons"
+  authors:
+    - Jack Yeung
+    - Daniel Kaiser
+    - Filippo Radicchi
+  year: 2025
+  venue: Physical Review E
+  published_url: https://doi.org/10.1103/64h7-z39p
+  pdf: /assets/docs/publications/yeung-et-al_efficient-ranking_2025.pdf
+  preprint: https://arxiv.org/abs/2501.16565
+  code: https://github.com/jackyeung99/proj_higher-order-ranking

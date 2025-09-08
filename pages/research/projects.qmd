@@ -1,0 +1,55 @@
+---
+title: "Research Projects"
+---
+
+Here you can find brief descriptions and references for the various research projects I have been/am currently a part of.
+
+# Current research
+
+<!-- ## Social contagions in higher-order networks -->
+
+<!-- ![](/assets/images/simpliciality.svg) -->
+
+<!-- Project description. -->
+
+
+<!-- References:
+
+* [Paper title](https://doi.org/10.1140/epjds/s13688-024-00458-1) -->
+
+
+
+## Rankings in multi-body competitions
+
+<!-- ![](/assets/images/simpliciality.svg) -->
+
+The 20th century saw dramatic strides in social choice theory and the problem of rankings, i.e., of computing some coherent ranking on a set of alternatives given a collection of individual preferences that may, in the aggregate view, conflict with each other. One model tackling this ranking computation is the Plackett-Luce model, an extension of the famous Bradley-Terry model into preferences among more than two alternatives at a time. We extend recent work on efficiently calculating rankings in the Bradley-Terry model to the Plackett-Luce model, thus allowing scalable ranking computations when preferences are made among an arbitrary number of alternatives.
+
+
+References:
+
+* [Efficient inference of rankings from multibody competitions](https://doi.org/10.1103/64h7-z39p)
+
+# Past research
+
+## Community detection in hypergraphs
+
+![](/assets/images/communities_hypergraphs.png)
+
+Community detection in graphs is known to be related to a graph compression problem such as described by Rosvall and Bergstrom in their paper "An information-theoretic framework for resolving community structure in complex networks." We extend their framework to the hypergraph setting, so that we can partition the nodes of a hypergraph into communities such that the community structure is maximally informative of the underlying hypergraph structure.
+
+References:
+
+* [Community detection in hypergraphs via mutual information maximization](https://doi.org/10.1038/s41598-024-55934-5)
+
+## Multiplex reconstruction
+
+![](/assets/images/reconstruction.png)
+
+Multiplex networks extend classical network theory by allowing for the same set of entities to interact in a variety of ways. Observing multiplex structures directly is not always an easy task, however, and is prone to a variety of errors. One such observation error that does not have an analogy in classical network theory is a failure to observe the type of interaction, merely its existence *in some layer*. We develop a framework to infer the most likely multiplex structure given some partial observations of the full multiplex structure and observation of the aggregate topology.
+
+
+References:
+
+* [Reconstructing multiplex networks via graph embeddings](https://doi.org/10.1103/PhysRevE.109.024313)
+* [Multiplex reconstruction with partial information](https://doi.org/10.1103/PhysRevE.107.024309)

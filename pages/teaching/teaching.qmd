@@ -1,0 +1,43 @@
+---
+title: Teaching
+subtitle: "\"In learning you will teach and in teaching you will learn.\" – Phil Collins"
+---
+
+# Courses
+
+I do not currently teach any courses.
+
+Below is a record of past courses I have taught.
+
+## Indiana University
+
+- Mathematical Foundations of Informatics (I201) - Fall 2024 (Instructor of Record)
+- Mathematical Foundations of Informatics (I201) - Summer 2024 (Instructor of Record)
+- Mathematical Foundations of Informatics (I201) - Spring 2024 (Instructor of Record)
+- Mathematical Foundations of Informatics (I201) - Summer 2022 (Instructor of Record)
+- Mathematical Foundations of Informatics (I201) - Spring 2022
+- Information Infrastructure II (I211) - Fall 2021
+- Mathematical Foundations of Informatics (I201) - Summer 2021 (Instructor of Record)
+- Mathematical Foundations of Informatics (I201) - Spring 2021
+- Usable Privacy and Security (I590) - Spring 2021
+- Legal and Social Informatics of Security (I330) - Fall 2020
+- Performance Analytics (I369) - Spring 2020
+- Legal and Social Informatics of Security (I330) - Fall 2019
+
+# Invited Lectures
+
+## University of Michigan
+
+- Introduction to Differential Geometry (MATH 433) - Winter 2017 (Guest Lecturer)
+
+# Camps and workshops
+
+## Indiana University
+
+- Luddy Pre-College Science and Technology Program - Summer 2024
+- Luddy Pre-College Science and Technology Program - Summer 2023
+- Luddy Pre-College Science and Technology Program - Summer 2022
+
+## University of Michigan
+
+- Michigan Math and Science Scholars Program (Mathematics and Art section) - Summer 2025
