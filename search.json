@@ -1,0 +1,275 @@
+[
+  {
+    "objectID": "pages/values.html",
+    "href": "pages/values.html",
+    "title": "Lab Values",
+    "section": "",
+    "text": "Attribution: Sammy Katta\n\n\nThe pledge: “[This poster is] meant to show that racial justice and support for marginalized communities cannot be separated from the practice of science. We must actively work to recognize the obstacles that scientists (and potential scientists) from marginalized communities face, and dismantle structures of power that prevent them from succeeding. We must also consider the effects of our research and research choices on marginalized communities.”\nOur lab is a safe space for scholars of all identities and from all backgrounds. We believe that the best science is done when people are part of a community which values them, advocates for them, and supports them. We welcome and support all members of our community regardless of age, sex, gender identity, gender expression, sexual orientation, pregnancy, marital status, family structure, disability, ethnicity, race, religion, nationality, education, or socio-economic background. Our lab operates under the ethos of prioritizing individual well-being, curiosity, and science without barriers.\nIndividual well-being. In our lab, our health comes first. Mental health is extremely important in making it through a PhD and being in academia in general. We do this by fostering a culture where we communicate our needs and, in response, adjust expectations, deadlines, and workload. There is a lot of “failure” in science (and life in general!) and our lab embraces it. We share not only our successes, but our failures as well.\nCuriosity. Our lab starts by asking “why?” and “what if?” and see where it leads. We aren’t limited by disciplinary boundaries, but rather, widen our circle and learn from others. We do this by encouraging collaboration across disciplines, entertaining unconventional ideas, and seeking to understand other perspectives.\nScience without barriers. Our lab is committed to open science. This means sharing all of our code and data whenever possible. It means sharing our preprints of our work and getting feedback from the scientific community. It means using open-source software and data resources so that everyone can access our work."
+  },
+  {
+    "objectID": "pages/teaching/mentoring.html",
+    "href": "pages/teaching/mentoring.html",
+    "title": "Mentoring",
+    "section": "",
+    "text": "Warning\n\n\n\nThis page is under construction!\n\n\n\nMentoring Philosophy\nI am a firm believer in the power of a dedicated mentor to bring the best out of a student more than a regiment of homogenized courses ever could. I am grateful to have had a handful of fantastic mentors myself who have dedicated uncommon amounts of their time to encouraging my dreams and training my capabilities and I am deeply indebted to them for where I am today, including the late Dr. Charles Doering who owns the lion’s share of credit for my pursuit of research today.\n\n\nStudents\nMost of my student’s have worked with me through the Undergraduate Opportunity in Computing (UROC) program offered by the Luddy School of Informatics, Computing, and Engineering at Indiana University."
+  },
+  {
+    "objectID": "pages/resources/software.html",
+    "href": "pages/resources/software.html",
+    "title": "Software",
+    "section": "",
+    "text": "I believe scientists have a duty to ensure their work is as reproducible as possible. For contemporary computational sciences, this includes transparency of computational tools and software as well as theory and data! As such, where possible, each of my publications come with links to relevant source code. These are included with the paper listings on my “Publications” page.\nFurthermore, I enjoy contributing to open source software intended to further other’s scientific practices as well. Below I have listed the codebases I have contributed to that are deisgned to be used as packages. Note that code associated to papers that is not designed to be packaged or extensible are not listed here.\n\nxgi\nThe CompleX Group Interactions (XGI) library provides data structures and algorithms for modeling and analyzing complex systems with group (higher-order) interactions.\nMany datasets can be represented as graphs, where pairs of entities (or nodes) are related via links (or edges). Examples are road networks, energy grids, social networks, neural networks, etc. However, in many other datasets, more than two entities can be related at a time. For example, many scientists (entities) can collaborate on a scientific article together (links), and multiple email accounts (entities) can all participate on the same email thread (links). In this latter case, graphs no longer present a viable alternative to represent such datasets. It is for this kind of datasets, where the interactions are given among groups of more than two entities (also called higher-order interactions), that XGI was designed for.\nXGI is implemented in pure Python and is designed to seamlessly interoperate with the rest of the Python scientific stack (numpy, scipy, pandas, matplotlib, etc). XGI is designed and developed by network scientists with the needs of network scientists in mind.\n\n        \n        Website\n     \n        \n        Github\n     \n        \n        Package\n    \nhypercontagion\nHyperContagion is a Python package for the simulation and visualization of contagion processes on complex systems with group (higher-order) interactions.\n\n        \n        Website\n     \n        \n        Github\n     \n        \n        Package\n    \nEfficient inference of rankings from multi-body comparisons\nComputing rankings in multi-body competitions via the Plackett-Luce model is a straight-forward but non-trivial task. The fastest solutions to date are based in iterative solutions to a given system of equations. We develop a faster iteration schema and an efficient C implementation to compute these rankings from competition outcome data.\nImplementation accompanying our paper \"Efficient inference of rankings from multi-body comparisons.\"”\n\n        \n        Github"
+  },
+  {
+    "objectID": "pages/research/publications.html",
+    "href": "pages/research/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Here you can find a complete list of my publications, sorted in descending order by publication year. For a grouping by research topic, see my “Projects” page.\nPublished\n\nJack Yeung, Daniel Kaiser, and Filippo Radicchi, \"Efficient inference of rankings from multibody comparisons\", Physical Review E (2025).\n        \n        PDF\n     \n        \n        Preprint\n     \n        \n        Code\n     \n        \n        Published\n    \nDaniel Kaiser, Siddharth Patwardhan, Minsuk Kim, and Filippo Radicchi, \"Reconstruction of multiplex networks via graph embeddings\", Physical Review E (2024).\n        \n        PDF\n     \n        \n        Preprint\n     \n        \n        Code\n     \n        \n        Published\n    \nJuergen Kritschgau, Daniel Kaiser, Oliver Alvarado Rodriguez, Ilya Amburg, Jessalyn Bolkema, Thomas Grubb, Fangfei Lin, Sepideh Maleki, Phil Chodrow, and Bill Kay, \"Community detection in hypergraphs via mutual information maximization\", Nature: Scientific Reports (2024).\n        \n        PDF\n     \n        \n        Preprint\n     \n        \n        Published\n    \nDaniel Kaiser, Siddharth Patwardhan, and Filippo Radicchi, \"Multiplex reconstruction with partial information\", Physical Review E (2023).\n        \n        PDF\n     \n        \n        Preprint\n     \n        \n        Code\n     \n        \n        Published\n    \n\nPreprints\n\n\nCurrently no unpublished work."
+  },
+  {
+    "objectID": "pages/people.html#nicholas-landry-pi",
+    "href": "pages/people.html#nicholas-landry-pi",
+    "title": "Lab members",
+    "section": "Nicholas Landry, PI",
+    "text": "Nicholas Landry, PI\n Nicholas Landry is an Assistant Professor in the Biology Department at the University of Virginia. Nicholas is interested in the way that group interactions affect the dynamics of contagion spread, the structure of higher-order social systems, using data to inform mathematical models, and open-source software. Nicholas is one of the founding members of the XGI project, a software package for analyzing, modeling, and visualizing higher-order networks. Nicholas Landry was the TGIR Postdoctoral Research Fellow in the Vermont Complex Systems Center at the University of Vermont. Prior to his position at UVM, he completed a Ph.D. in Applied Mathematics at the University of Colorado Boulder. Nicholas also obtained a B.S. in Mechanical Engineering at the University of New Hampshire and worked as an engineer at a manufacturing company in Seacoast New Hampshire.\n\n\n     Email\n\n\n     Website"
+  },
+  {
+    "objectID": "pages/people.html#daniel-kaiser-postdoc",
+    "href": "pages/people.html#daniel-kaiser-postdoc",
+    "title": "Lab members",
+    "section": "Daniel Kaiser, Postdoc",
+    "text": "Daniel Kaiser, Postdoc\n Daniel’s research interests are often evolving, currently including multi-dimensional higher-order interactions and lossy compressions, the role of homophily and complementarity in hypergraph growth, and community detection in hypergraphs. He is also interested in and maintains some projects concerning efficient multi-body ranking algorithms and surprising competitive outcomes, equitable transportation infrastructure through a field theory lens, and the creation of non-polarizing recommendation systems. Before joining the Landry Lab at UVA, Daniel completed a Ph.D. in Informatics at Indiana University under the supervision of Dr. Filippo Radicchi and a B.S. in Mathematics from the University of Michigan.\n\n\n     Email\n\n\n     Website"
+  },
+  {
+    "objectID": "pages/people.html#charlotte-greene-phd-student",
+    "href": "pages/people.html#charlotte-greene-phd-student",
+    "title": "Lab members",
+    "section": "Charlotte Greene, PhD Student",
+    "text": "Charlotte Greene, PhD Student\n Charlotte is as evolutionary biology and behavioral ecology PhD candidate being co-advised by Prof. Landry and Butch Brodie. They study environmental drivers of variation in sexual selection across space and time. Their work primarily focuses on the role of population demographics, age, and behavior in the evolution of weaponry in male forked fungus beetles. Charlotte is excited about expanding their research to apply contagion-based computational approaches to studying aggression and social behaviors. When not staring at beetles, Charlotte most enjoys running, dancing, and reading.\n\n\n     Email\n\n\n     LinkedIn"
+  },
+  {
+    "objectID": "pages/people.html#andy-grieve-phd-student",
+    "href": "pages/people.html#andy-grieve-phd-student",
+    "title": "Lab members",
+    "section": "Andy Grieve, PhD Student",
+    "text": "Andy Grieve, PhD Student\n Andy is a 2nd year Ph.D. student in the Kasimatis Lab studying sexual conflict. He is an EXPAND fellow for the 2025-2026 academic year, co-advised by Prof. Landry. He is interested in how sexes share autosomal genetic material, but experience differentiated phenotypes. His studies focus on sexual conflict, and the molecular mechanisms that can reduce sexual conflict. Outside of the lab Andy enjoys trail running, rock climbing, and reading.\n\n\n     Email\n\n\n     LinkedIn"
+  },
+  {
+    "objectID": "pages/people.html#abhay-gupta-phd-student",
+    "href": "pages/people.html#abhay-gupta-phd-student",
+    "title": "Lab members",
+    "section": "Abhay Gupta, PhD Student",
+    "text": "Abhay Gupta, PhD Student\n I come from Delhi, India—a city full of energy and diversity. I completed my Master’s in Biology, during which I developed a strong interest in studying the evolution of adaptations using theoretical and computational approaches.\nMy research so far has explored topics like sexual conflict, sexual convolution, cancer systems, and the evolution of sex-biased cooperation. Moving forward, I’m excited to expand my work during my PhD, combining both wet and dry lab methods to tackle questions in evolution and ecology. One area I’m particularly curious about is the evolution of contagion spread—whether in pathogens or ideas—exploring how opinions or diseases propagate within communities and eventually develop strategies to combat this spread (for the diseases). Outside the lab, you’ll find me deep into either video or board games, hunting for the best coffee and beer spots, or exploring cities and nature. I’m always up for a chat about evolutionary theories over a cold brew or a round of Avalon!\nI’m looking forward to joining the lab, learning from everyone, and contributing to meaningful research!\n\n\n     Email"
+  },
+  {
+    "objectID": "pages/people.html#you",
+    "href": "pages/people.html#you",
+    "title": "Lab members",
+    "section": "You?",
+    "text": "You?\nAre you interested in any of the lab’s research areas? If so, reach out to nicholas.landry@virginia.edu!"
+  },
+  {
+    "objectID": "pages/people.html#lab-alumni",
+    "href": "pages/people.html#lab-alumni",
+    "title": "Lab members",
+    "section": "Lab Alumni",
+    "text": "Lab Alumni\n\nUndergraduate\n\nAhmed Ahmed, Summer 2025"
+  },
+  {
+    "objectID": "pages/aboutme.html",
+    "href": "pages/aboutme.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello! My name is Daniel Kaiser and I am a post-doctoral researcher at the University of Virginia. I completed my Ph.D. in network science at the University of Indiana in 2025; for a complete history, see my CV."
+  },
+  {
+    "objectID": "pages/aboutme.html#who-i-am-within-science",
+    "href": "pages/aboutme.html#who-i-am-within-science",
+    "title": "About Me",
+    "section": "Who I am within Science",
+    "text": "Who I am within Science\nThe sort of projects I work on and the things I think about are summarized nicely on my “Projects” page.\nThere is, of course, more to “doing science” than research alone. In university labs alone there are expectations to spend time on administrative tasks, teaching, and a myriad of other tasks generally considered “service.” While I put in my time teaching, managing administrative events, reviewing other’s work, I find I have a real passion for mentoring. It is well-known that a supportive mentor can provide a radically different experience for a mentee than a non-supportive one, even if they are less “famous” in their field. With an ever increasing amount of people pursuing doctorates but stagnating university positions, advisors in academic positions are often too busy fighting to stay afloat in academia’s competitive on market to spend quality time mentoring the next generation of scientists. While I don’t pretend to be immune from “being too busy,” I devote time to mentor a variety of undergraduate students in research and computational sciences. You can read all about my mentees, what we have worked on together, and where they are now on my “Mentoring” page."
+  },
+  {
+    "objectID": "pages/aboutme.html#who-i-am-aside-from-science",
+    "href": "pages/aboutme.html#who-i-am-aside-from-science",
+    "title": "About Me",
+    "section": "Who I am aside from Science",
+    "text": "Who I am aside from Science\nOf course, while I am passionate about my scientific work I do have a personality beyond research! When I’m not in the lab, I enjoy exploring local parks and forests, playing video games, leather-craft and some electronics tinkering, and hanging out with my #1 coauthor, Salem my cat.\nI am also an avid believer in the role of scientists in society extending beyond research. Scientists are citizens of the society in which they live and work and, while the research they produce is valuable, they have a responsibility to engage socially as well. The image of a scientist as an aloft, pretentious entity separate from the rest of humanity, sitting in their ivory tower may seem humurous and out-dated to those of us working in contemporary research labs, but for many people this is the primary image they have of a scientist."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Daniel Kaiser, Ph.D.",
+    "section": "",
+    "text": "I am a Post-Doctoral researcher working with Dr. Nicholas Landry at the University of Virginia’s Biology Department.\nMy current research interests revolve around understanding multi-body competition complexity and higher-order signatures of social contagion; you can read more about my work on my “Projects” or “Publications” pages.\nI am passionate about teaching and mentoring as well; you can find a list of courses I am currently teaching and have taught in the past on my “Teaching” page, as well as a list of students I have mentored in research on my “Mentoring”.\nFeel free to reach out with any questions or just to chat! Below you can find links to my relevant contacts and profiles.\n\n\n\n     Email\n\n\n\n     GitHub\n\n\n\n\n     ResearchGate\n\n\n\n     BlueSky"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Older news",
+    "section": "",
+    "text": "August 2025: The Landry Lab is established at the University of Virginia."
+  },
+  {
+    "objectID": "pages/coauthors.html",
+    "href": "pages/coauthors.html",
+    "title": "Coauthors",
+    "section": "",
+    "text": "Science is very rarely done alone and the work I have done is no exception. I have had the pleasure of working with many capable and generous researchers and I would be remiss to not acknowledge them."
+  },
+  {
+    "objectID": "pages/coauthors.html#current-collaborators",
+    "href": "pages/coauthors.html#current-collaborators",
+    "title": "Coauthors",
+    "section": "Current collaborators",
+    "text": "Current collaborators\n\nNicholas Landry\nBill Kay\nJessalyn Bolkema"
+  },
+  {
+    "objectID": "pages/coauthors.html#past-collaborators",
+    "href": "pages/coauthors.html#past-collaborators",
+    "title": "Coauthors",
+    "section": "Past collaborators",
+    "text": "Past collaborators\n\nFilippo Radicchi\nSiddharth Patwardhan\nMinsuk Kim\nJack Yeung\nBill Kay\nJessalyn Bolkema\nOliver Alvarado Rodriguez\nIlya Amburg\nThomas Grubb\nFangfei Lin\nSepideh Maleki\nPhil Chodrow"
+  },
+  {
+    "objectID": "pages/research/projects.html",
+    "href": "pages/research/projects.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "Here you can find brief descriptions and references for the various research projects I have been/am currently a part of."
+  },
+  {
+    "objectID": "pages/research/projects.html#rankings-in-multi-body-competitions",
+    "href": "pages/research/projects.html#rankings-in-multi-body-competitions",
+    "title": "Research Projects",
+    "section": "Rankings in multi-body competitions",
+    "text": "Rankings in multi-body competitions\n\nThe 20th century saw dramatic strides in social choice theory and the problem of rankings, i.e., of computing some coherent ranking on a set of alternatives given a collection of individual preferences that may, in the aggregate view, conflict with each other. One model tackling this ranking computation is the Plackett-Luce model, an extension of the famous Bradley-Terry model into preferences among more than two alternatives at a time. We extend recent work on efficiently calculating rankings in the Bradley-Terry model to the Plackett-Luce model, thus allowing scalable ranking computations when preferences are made among an arbitrary number of alternatives.\nReferences:\n\nEfficient inference of rankings from multibody competitions"
+  },
+  {
+    "objectID": "pages/research/projects.html#community-detection-in-hypergraphs",
+    "href": "pages/research/projects.html#community-detection-in-hypergraphs",
+    "title": "Research Projects",
+    "section": "Community detection in hypergraphs",
+    "text": "Community detection in hypergraphs\n\nCommunity detection in graphs is known to be related to a graph compression problem such as described by Rosvall and Bergstrom in their paper “An information-theoretic framework for resolving community structure in complex networks.” We extend their framework to the hypergraph setting, so that we can partition the nodes of a hypergraph into communities such that the community structure is maximally informative of the underlying hypergraph structure.\nReferences:\n\nCommunity detection in hypergraphs via mutual information maximization"
+  },
+  {
+    "objectID": "pages/research/projects.html#multiplex-reconstruction",
+    "href": "pages/research/projects.html#multiplex-reconstruction",
+    "title": "Research Projects",
+    "section": "Multiplex reconstruction",
+    "text": "Multiplex reconstruction\n\nMultiplex networks extend classical network theory by allowing for the same set of entities to interact in a variety of ways. Observing multiplex structures directly is not always an easy task, however, and is prone to a variety of errors. One such observation error that does not have an analogy in classical network theory is a failure to observe the type of interaction, merely its existence in some layer. We develop a framework to infer the most likely multiplex structure given some partial observations of the full multiplex structure and observation of the aggregate topology.\nReferences:\n\nReconstructing multiplex networks via graph embeddings\nMultiplex reconstruction with partial information"
+  },
+  {
+    "objectID": "pages/resources/resources.html",
+    "href": "pages/resources/resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Warning\n\n\n\nPage under construction. For now, see Dr. Phil Chodrow’s website for a similarly inspired Resources page (and the inspiration for my own intended page).\nConducting scientific research is a difficult endeavour in any field or time. Computational sciences in the modern era are no different; between mathematical skills and tools and software requirements and changing capabilities, it is no easy task to complete scientific computations at all, much less to do so efficiently.\nI have compiled several resources to help me engage in computational science, from books and articles to packages and heuristics, I have found wisdom from others to aide nearly all aspects of my work. Some of these resources I have created myself but most I have compiled from others selflish open publication.\nBelow are some of the resources I have used/created and would recommend. Most should be future-proof indefinitely or for at least many years, but I cannot guarantee any that are not my own creation are up-to-date with modern computational systems. I would be happy to help troubleshoot any problems you may encounter.\nI have categorized the resources by topic they address, given as headers on this page. Note that some resources appear under many headers."
+  },
+  {
+    "objectID": "pages/resources/resources.html#note-taking-presenting-research",
+    "href": "pages/resources/resources.html#note-taking-presenting-research",
+    "title": "Resources",
+    "section": "Note-taking & presenting research",
+    "text": "Note-taking & presenting research"
+  },
+  {
+    "objectID": "pages/resources/resources.html#reproducibility",
+    "href": "pages/resources/resources.html#reproducibility",
+    "title": "Resources",
+    "section": "Reproducibility",
+    "text": "Reproducibility"
+  },
+  {
+    "objectID": "pages/resources/resources.html#mathematics",
+    "href": "pages/resources/resources.html#mathematics",
+    "title": "Resources",
+    "section": "Mathematics",
+    "text": "Mathematics"
+  },
+  {
+    "objectID": "pages/resources/resources.html#scientific-programming",
+    "href": "pages/resources/resources.html#scientific-programming",
+    "title": "Resources",
+    "section": "Scientific programming",
+    "text": "Scientific programming"
+  },
+  {
+    "objectID": "pages/salem.html#doing-some-inference-calculations",
+    "href": "pages/salem.html#doing-some-inference-calculations",
+    "title": "A Cute Lil’ Guy",
+    "section": "Doing some inference calculations",
+    "text": "Doing some inference calculations"
+  },
+  {
+    "objectID": "pages/salem.html#walking-a-mile-in-my-slippers",
+    "href": "pages/salem.html#walking-a-mile-in-my-slippers",
+    "title": "A Cute Lil’ Guy",
+    "section": "Walking a mile in my slippers",
+    "text": "Walking a mile in my slippers"
+  },
+  {
+    "objectID": "pages/salem.html#upset-i-woke-him-up",
+    "href": "pages/salem.html#upset-i-woke-him-up",
+    "title": "A Cute Lil’ Guy",
+    "section": "Upset I woke him up",
+    "text": "Upset I woke him up"
+  },
+  {
+    "objectID": "pages/salem.html#sharing-coffee-in-his-tree-cape",
+    "href": "pages/salem.html#sharing-coffee-in-his-tree-cape",
+    "title": "A Cute Lil’ Guy",
+    "section": "Sharing coffee in his tree cape",
+    "text": "Sharing coffee in his tree cape"
+  },
+  {
+    "objectID": "pages/salem.html#showing-off-his-hunting-prowess",
+    "href": "pages/salem.html#showing-off-his-hunting-prowess",
+    "title": "A Cute Lil’ Guy",
+    "section": "Showing off his hunting prowess",
+    "text": "Showing off his hunting prowess"
+  },
+  {
+    "objectID": "pages/salem.html#resting-and-putting-a-crick-in-his-neck",
+    "href": "pages/salem.html#resting-and-putting-a-crick-in-his-neck",
+    "title": "A Cute Lil’ Guy",
+    "section": "Resting and putting a crick in his neck",
+    "text": "Resting and putting a crick in his neck"
+  },
+  {
+    "objectID": "pages/teaching/teaching.html",
+    "href": "pages/teaching/teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I do not currently teach any courses.\nBelow is a record of past courses I have taught.\n\n\n\nMathematical Foundations of Informatics (I201) - Fall 2024 (Instructor of Record)\nMathematical Foundations of Informatics (I201) - Summer 2024 (Instructor of Record)\nMathematical Foundations of Informatics (I201) - Spring 2024 (Instructor of Record)\nMathematical Foundations of Informatics (I201) - Summer 2022 (Instructor of Record)\nMathematical Foundations of Informatics (I201) - Spring 2022\nInformation Infrastructure II (I211) - Fall 2021\nMathematical Foundations of Informatics (I201) - Summer 2021 (Instructor of Record)\nMathematical Foundations of Informatics (I201) - Spring 2021\nUsable Privacy and Security (I590) - Spring 2021\nLegal and Social Informatics of Security (I330) - Fall 2020\nPerformance Analytics (I369) - Spring 2020\nLegal and Social Informatics of Security (I330) - Fall 2019"
+  },
+  {
+    "objectID": "pages/teaching/teaching.html#indiana-university",
+    "href": "pages/teaching/teaching.html#indiana-university",
+    "title": "Teaching",
+    "section": "",
+    "text": "Mathematical Foundations of Informatics (I201) - Fall 2024 (Instructor of Record)\nMathematical Foundations of Informatics (I201) - Summer 2024 (Instructor of Record)\nMathematical Foundations of Informatics (I201) - Spring 2024 (Instructor of Record)\nMathematical Foundations of Informatics (I201) - Summer 2022 (Instructor of Record)\nMathematical Foundations of Informatics (I201) - Spring 2022\nInformation Infrastructure II (I211) - Fall 2021\nMathematical Foundations of Informatics (I201) - Summer 2021 (Instructor of Record)\nMathematical Foundations of Informatics (I201) - Spring 2021\nUsable Privacy and Security (I590) - Spring 2021\nLegal and Social Informatics of Security (I330) - Fall 2020\nPerformance Analytics (I369) - Spring 2020\nLegal and Social Informatics of Security (I330) - Fall 2019"
+  },
+  {
+    "objectID": "pages/teaching/teaching.html#university-of-michigan",
+    "href": "pages/teaching/teaching.html#university-of-michigan",
+    "title": "Teaching",
+    "section": "University of Michigan",
+    "text": "University of Michigan\n\nIntroduction to Differential Geometry (MATH 433) - Winter 2017 (Guest Lecturer)"
+  },
+  {
+    "objectID": "pages/teaching/teaching.html#indiana-university-1",
+    "href": "pages/teaching/teaching.html#indiana-university-1",
+    "title": "Teaching",
+    "section": "Indiana University",
+    "text": "Indiana University\n\nLuddy Pre-College Science and Technology Program - Summer 2024\nLuddy Pre-College Science and Technology Program - Summer 2023\nLuddy Pre-College Science and Technology Program - Summer 2022"
+  },
+  {
+    "objectID": "pages/teaching/teaching.html#university-of-michigan-1",
+    "href": "pages/teaching/teaching.html#university-of-michigan-1",
+    "title": "Teaching",
+    "section": "University of Michigan",
+    "text": "University of Michigan\n\nMichigan Math and Science Scholars Program (Mathematics and Art section) - Summer 2025"
+  }
+]
